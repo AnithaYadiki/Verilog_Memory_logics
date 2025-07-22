@@ -1,0 +1,2 @@
+# Verilog_Memory_logics
+Asynchronous_single_and_dual_port_RAM_and_FIFOS
